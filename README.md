@@ -85,5 +85,4 @@ JSON檔案
 https://media.taiwan.net.tw/XMLReleaseALL_public/scenic_spot_C_f.json
 
 
-## 作業連結
-- [儲存庫](https://github.com/shuyu626/hw_linebot.git)
+
